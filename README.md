@@ -20,8 +20,9 @@ Why is building multi-device experiences so hard? Learn what I found from interv
 ### Home Trivia
 Home Trivia is an experimental system which uses activity traces, games, and sensors to help families better understand how they spend time at home. Publication: UbiComp2015 \[[ACM](http://dl.acm.org/citation.cfm?id=2804294), [PDF](https://drive.google.com/file/d/0B3ZUNRRaVZ8na3lUM3RwSmx5VFE/view?usp=sharing)\]
 
-<iframe width="560" height="420" src="https://www.youtube.com/embed/TBDSEEFmEew" frameborder="0" allowfullscreen></iframe>
-
+<div class="videoWrapper">
+    <iframe width="560" height="420" src="https://www.youtube.com/embed/TBDSEEFmEew" frameborder="0" allowfullscreen></iframe>
+</div>
 ### House Memory: "If these walls could talk..." ###
 Through a field study and a design exercise, I explored the potential value of activity traces captured by sensors in domestic environments. Publications: Interactions \[[ACM](http://dl.acm.org/citation.cfm?doid=2654824), [PDF](https://drive.google.com/file/d/0B3ZUNRRaVZ8nQUpQemt0aU81ZHc/view)\], DIS2014 - Best Paper Nominee \[[ACM](http://dl.acm.org/citation.cfm?id=2598605), [PDF](https://drive.google.com/file/d/0B3ZUNRRaVZ8nSHFDR21IRDlMSUE/view)\]
 
@@ -30,11 +31,14 @@ Through a field study and a design exercise, I explored the potential value of a
 ### Social Overlays ###
 Social Overlays is an experimental system to enable users to fix usability problems on live websites and share their modifications with other site visitors. Publication: Interact2013 \[[Springer](http://link.springer.com/chapter/10.1007/978-3-642-40498-6_21#page-1), [PDF](https://drive.google.com/file/d/0B3ZUNRRaVZ8nN1kwejFfR2liOHc/view)\]
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PlysPcqyRt0" frameborder="0" allowfullscreen></iframe>
-
+<div class="videoWrapper">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/PlysPcqyRt0" frameborder="0" allowfullscreen></iframe>
+</div>
 ### Jigsaw ###
 Jigsaw is a discovery-based learning game for Photoshop based on the jigsaw puzzle metaphor. Publication: CHI2012 \[[ACM](http://dl.acm.org/citation.cfm?id=2208358), [PDF](https://drive.google.com/file/d/0B3ZUNRRaVZ8ncEZkVFRvMUtvNUU/view)\]
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OwEPxmm_BTY" frameborder="0" allowfullscreen></iframe>
+<div class="videoWrapper">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/OwEPxmm_BTY" frameborder="0" allowfullscreen></iframe>
+</div>
 
 If you don't have access to the ACM Digital Library, you can download the preprint versions of my papers on [Google Drive](https://drive.google.com/folderview?id=0B3ZUNRRaVZ8nfkVHdzdOM3ZKQmZHMGl1SWowQU9GQnVWakM5YTQ2UGZJcnQ3d3ZQcjFOZ1U&usp=sharing).
