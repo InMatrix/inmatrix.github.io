@@ -10,7 +10,8 @@ I received my PhD from the [School of Information](http://www.si.umich.edu) at t
 ## Select Research Projects
 
 ### API Usability ###
-The usability of API can makes or breaks the developer's productivity. At DevXcon 2018, I talked about how to apply UX principles and methods to API usability ([Transcript](https://devrel.net/developer-experience/how-to-apply-ux-principles-and-methods-to-api-usability)).
+The usability of API can makes or breaks the developer's productivity. At DevXcon 2018, I talked about how to apply UX principles and methods to API usability ([Transcript](https://devrel.net/developer-experience/how-to-apply-ux-principles-and-methods-to-api-usability),
+[Slides](https://docs.google.com/presentation/d/1vkVGdmeQyp8uQkc35iwGGXV0nFCZqnVELSkFY4WdU7w/edit#slide=id.g3add037ebf_0_3)).
 <div class="videoWrapper">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/Zx732oQN_Rs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
