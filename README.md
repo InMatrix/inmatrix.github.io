@@ -9,6 +9,12 @@ I received my PhD from the [School of Information](http://www.si.umich.edu) at t
 
 ## Select Research Projects
 
+### API Usability ###
+The usability of API can makes or breaks the developer's productivity. At DevXcon 2018, I talked about how to apply UX principles and methods to API usability ([Transcript](https://devrel.net/developer-experience/how-to-apply-ux-principles-and-methods-to-api-usability)).
+<div class="videoWrapper">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/Zx732oQN_Rs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 ### The Moving Context Kit (McKit)
 How do devices take on different roles in ad-hoc multi-device configurations, and how do changes in the user's context influence device roles and privacy considerations? This kit helps designers incorporate these considerations into product design. Learn more at [sites.google.com/corp/view/mckit](https://sites.google.com/corp/view/mckit). Publication: DIS2017 \[[ACM](http://dl.acm.org/citation.cfm?doid=3064663.3064768)]
 
