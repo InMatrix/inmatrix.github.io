@@ -1,4 +1,4 @@
-[dongtao@acm.org](mailto:dongtao@acm.org) \| [Google Scholar](https://scholar.google.com/citations?user=HYU9v0QAAAAJ&hl=en) \| [LinkedIn](https://www.linkedin.com/in/dongtao) \| [Twitter](https://twitter.com/taodong)
+[dongtao@acm.org](mailto:dongtao@acm.org) \| [Google Scholar](https://scholar.google.com/citations?user=HYU9v0QAAAAJ&hl=en) \| [LinkedIn](https://www.linkedin.com/in/dongtao) \| [Medium](https://medium.com/@taodong) \| [Twitter](https://twitter.com/taodong)
 
 ## Hello!
 
@@ -11,7 +11,7 @@ I received my PhD from the [School of Information](http://www.si.umich.edu) at t
 ### The Usability of Error Messages
 
 Programmatic errors are often difficult to resolve due to poor usability of error messages.
-Applying theories of visual perception and techniques in visual design, we were able to substantially improve both error comprehension and resolution in an experiment. Publication: CHI2019 \[[Preprint](https://drive.google.com/open?id=1_xNIy51yAZ7MnTHHG8SYwvvQMbt9bkMs)]
+Applying theories of visual perception and techniques in visual design, we were able to substantially improve both error comprehension and resolution in an experiment. Publication: CHI2019 \[[Preprint](https://drive.google.com/open?id=1_xNIy51yAZ7MnTHHG8SYwvvQMbt9bkMs)], [Medium.com](https://medium.com/flutter/improving-flutters-error-messages-e098513cecf9)
 
 <div class="videoWrapper">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/whcdZf8VMdo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
