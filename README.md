@@ -8,6 +8,16 @@ I received my PhD from the [School of Information](http://www.si.umich.edu) at t
 
 ## Select Research Projects
 
+### Programming Education via Live Streaming
+Live streaming is an emerging practice for teaching and learning computer programming. 
+What's unique about this medium, compared with pre-recorded videos? 
+Read our paper to find out. 
+Publication: CSCW2020 \[[Preprint](https://drive.google.com/file/d/13ybnyXf41FcKr9uvJD0W74euG5sriNR0/view?usp=sharing)].
+
+<div class="videoWrapper">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/GOumcQgdnXQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 ### The Usability of Error Messages
 
 Programmatic errors are often difficult to resolve due to poor usability of error messages.
