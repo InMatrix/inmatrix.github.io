@@ -1,7 +1,7 @@
 [dongtao@acm.org](mailto:dongtao@acm.org) \| [Google Scholar](https://scholar.google.com/citations?user=HYU9v0QAAAAJ&hl=en) \| [LinkedIn](https://www.linkedin.com/in/dongtao) \| [Medium](https://medium.com/@taodong) \| [Twitter](https://twitter.com/taodong)
 
 ## Hello!
-I’m a [Human-Computer Interaction](https://www.interaction-design.org/literature/topics/human-computer-interaction) researcher, User Experience Lead, and keynote speaker. Currently employed as a Staff UX Researcher at Google, my work is focused on API usability and programming tools, specifically for [Flutter](https://flutter.dev/), a multi-platform UI toolkit.
+I’m a [Human-Computer Interaction](https://www.interaction-design.org/literature/topics/human-computer-interaction) researcher, User Experience Lead, and keynote speaker. Currently employed as a Staff UX Researcher at Google, my work is focused on developer experience, specifically for [Flutter](https://flutter.dev/), a multi-platform UI toolkit.
 
 I received my PhD from the [School of Information](http://www.si.umich.edu) at the [University of Michigan](http://www.umich.edu). My PhD thesis is entitled [Designing Reflective User Experience with Social and Ubiquitous Computing Technologies](http://deepblue.lib.umich.edu/handle/2027.42/111448). I was co-advised by [Prof. Mark Ackerman](https://www.si.umich.edu/people/mark-ackerman) and [Prof. Mark W. Newman](https://www.si.umich.edu/people/mark-newman).
 
