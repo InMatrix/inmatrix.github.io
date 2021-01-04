@@ -53,7 +53,7 @@ Why is building multi-device experiences so hard? Learn what I found from interv
 <hr/>
 Projects below are from my pre-Google days.
 
-### Home Trivia
+### Activity Traces in the Home
 
 Home Trivia is an experimental system which uses activity traces, games, and sensors to help families better understand how they spend time at home. Learn more: [Paper @ UbiComp ’15](https://drive.google.com/file/d/0B3ZUNRRaVZ8na3lUM3RwSmx5VFE/view?usp=sharing).
 
@@ -65,14 +65,15 @@ Through a field study and a design exercise, I explored the potential value of a
 
 ![House Memory Figure](assets/images/hm_figure.jpg)
 
-### Social Overlays
+### Social Web Annotations and Modifications
 
 Social Overlays is an experimental system to enable users to fix usability problems on live websites and share their modifications with other site visitors. Learn more: [Paper @ Interact ’13](https://doi.org/10.1007/978-3-642-40498-6_21).
 
 <div class="videoWrapper">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/PlysPcqyRt0" frameborder="0" allowfullscreen></iframe>
 </div>
-### Jigsaw ###
+
+### Learning Complex Software via Gaming ###
 Jigsaw is a discovery-based learning game for Photoshop based on the jigsaw puzzle metaphor. Learn more: [Paper @ CHI ’12](https://drive.google.com/file/d/0B3ZUNRRaVZ8ncEZkVFRvMUtvNUU/view).
 
 <!-- CHI2012 \[[ACM](http://dl.acm.org/citation.cfm?id=2208358) -->
