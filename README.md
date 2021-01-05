@@ -41,7 +41,7 @@ Read our paper to find out. Learn more: [Paper @ CSCW ’20](https://drive.googl
 </div>
 
 ### Evaluating a Design System at Scale
-Material Design is a Design System introduced by Google in 2014, but did it help elevating the UX of apps in the Android ecosystem? We analyzed thousands of Android apps using machine learning and computer vision techniques and found that use of Material Design was positively correlated with high app ratings and large numbers of app installs. Learn more: [Paper](https://arxiv.org/pdf/1807.04191.pdf), Book Chapter – Coming Soon.
+Material Design is a Design System introduced by Google in 2014, but did it help elevating the UX of apps in the Android ecosystem? We analyzed thousands of Android apps using machine learning and computer vision techniques and found that use of Material Design was positively correlated with high app ratings and large numbers of app installs. Learn more: [Paper](https://arxiv.org/pdf/1807.04191.pdf).
 
 ![heatmap of Material Design UI elements based on their probabilistic distribution in our app UI dataset](assets/images/UI_elements_heatmap.png)
 
