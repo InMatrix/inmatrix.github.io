@@ -1,7 +1,7 @@
 [dongtao@acm.org](mailto:dongtao@acm.org) \| [Google Scholar](https://scholar.google.com/citations?user=HYU9v0QAAAAJ&hl=en) \| [LinkedIn](https://www.linkedin.com/in/dongtao) \| [Medium](https://medium.com/@taodong) \| [Twitter](https://twitter.com/taodong)
 
 ## Hello!
-I’m a [Human-Computer Interaction](https://www.interaction-design.org/literature/topics/human-computer-interaction) researcher, User Experience Lead, and keynote speaker. Currently employed as a Staff UX Researcher at Google, my work is focused on developer experience, specifically for [Flutter](https://flutter.dev/), a multi-platform UI toolkit.
+I’m a [Human-Computer Interaction](https://www.interaction-design.org/literature/topics/human-computer-interaction) researcher, User Experience Lead, and [keynote speaker](https://www.bilibili.com/video/BV1Wz4y1y7Tu?t=44m32s). Currently employed as a Staff UX Researcher at Google, my work is focused on developer experience, specifically for [Flutter](https://flutter.dev/), a multi-platform UI toolkit.
 
 I received my PhD from the [School of Information](http://www.si.umich.edu) at the [University of Michigan](http://www.umich.edu). My PhD thesis is entitled [Designing Reflective User Experience with Social and Ubiquitous Computing Technologies](http://deepblue.lib.umich.edu/handle/2027.42/111448). I was co-advised by [Prof. Mark Ackerman](https://www.si.umich.edu/people/mark-ackerman) and [Prof. Mark W. Newman](https://www.si.umich.edu/people/mark-newman).
 
@@ -60,6 +60,7 @@ Home Trivia is an experimental system which uses activity traces, games, and sen
 <div class="videoWrapper">
     <iframe width="560" height="420" src="https://www.youtube.com/embed/TBDSEEFmEew" frameborder="0" allowfullscreen></iframe>
 </div>
+
 ### House Memory: "If these walls could talk..." ###
 Through a field study and a design exercise, I explored the potential value of activity traces captured by sensors in domestic environments. Learn more: [Article @ ACM Interactions](https://drive.google.com/file/d/0B3ZUNRRaVZ8nQUpQemt0aU81ZHc/view), [Paper @ DIS ’14](https://drive.google.com/file/d/0B3ZUNRRaVZ8nSHFDR21IRDlMSUE/view) (Best Paper Nominee).
 
