@@ -40,6 +40,11 @@ Read our paper to find out. Learn more: [Paper @ CSCW ’20](https://drive.googl
     <iframe width="560" height="315" src="https://www.youtube.com/embed/GOumcQgdnXQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+### Evaluating a Design System at Scale
+Material Design is a Design System introduced by Google in 2014, but did it help elevating the UX of apps in the Android ecosystem? We analyzed thousands of Android apps using machine learning and computer vision techniques and found that use of Material Design was positively correlated with high app ratings and large numbers of app installs. Learn more: [Paper](https://arxiv.org/pdf/1807.04191.pdf), Book Chapter – Coming Soon.
+
+![heatmap of Material Design UI elements based on their probabilistic distribution in our app UI dataset](assets/images/UI_elements_heatmap.png)
+
 ### Multi-device Experiences – A Design Ideation Toolkit
 
 How do devices take on different roles in ad-hoc multi-device configurations, and how do changes in the user's context influence device roles and privacy considerations? This kit helps designers incorporate these considerations into product design. Learn more: [Microsite](https://sites.google.com/view/mckit), [Paper @ DIS ’17](http://dl.acm.org/citation.cfm?doid=3064663.3064768).
@@ -58,7 +63,7 @@ Projects below are from my pre-Google days.
 Home Trivia is an experimental system which uses activity traces, games, and sensors to help families better understand how they spend time at home. Learn more: [Paper @ UbiComp ’15](https://drive.google.com/file/d/0B3ZUNRRaVZ8na3lUM3RwSmx5VFE/view?usp=sharing).
 
 <div class="videoWrapper">
-    <iframe width="560" height="420" src="https://www.youtube.com/embed/TBDSEEFmEew" frameborder="0" allowfullscreen></iframe>
+    <iframe width="560" src="https://www.youtube.com/embed/TBDSEEFmEew" frameborder="0" allowfullscreen></iframe>
 </div>
 
 ### House Memory: "If these walls could talk..." ###
