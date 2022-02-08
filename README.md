@@ -29,7 +29,7 @@ Applying theories of visual perception and techniques in visual design, we were 
 
 We set out to develop a pattern language for designing interactive coding tutorials through a user-centered design process. We created and evolved three instructional patterns and their supporting interaction components and [launched an interactive tutorial](https://dart.dev/codelabs/async-await) about Dart asynchronous programming. Learn more: [Best Practices Guide](https://dart.dev/resources/dartpad-best-practices), [Paper @ \<Programming\> ’20](https://doi.org/10.1145/3397537.3397558).
 
-[![A screenshot of a code editor embedded in an interactive tutorial with annotations. Click the image to open the Best Practices guide.](https://dart.dev/assets/dartpad-best-practices/anatomy-9bfbabe64e3ea0702d227dc96ef8adff765804de302ff3dbca0ce262723cd674.png)](https://dart.dev/resources/dartpad-best-practices)
+[![A screenshot of a code editor embedded in an interactive tutorial with annotations. Click the image to open the Best Practices guide.](https://dart.dev/assets/img/dartpad-best-practices/anatomy.png)](https://dart.dev/resources/dartpad-best-practices)
 
 ### Programming Education via Live Streaming
 Live streaming is an emerging practice for teaching and learning computer programming. 
