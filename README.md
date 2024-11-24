@@ -1,9 +1,7 @@
-[dongtao@acm.org](mailto:dongtao@acm.org) \| [Google Scholar](https://scholar.google.com/citations?user=HYU9v0QAAAAJ&hl=en) \| [LinkedIn](https://www.linkedin.com/in/dongtao) \| [Blog](https://taodong.medium.com/) \| [Twitter](https://twitter.com/taodong)
+[Email](mailto:dongtao@acm.org) \| [Google Scholar](https://scholar.google.com/citations?user=HYU9v0QAAAAJ&hl=en) \| [LinkedIn](https://www.linkedin.com/in/dongtao) \| [Blog](https://taodong.medium.com/) \| [X](https://x.com/taodong) \| [AI Papers Reader](https://ai-papers-reader.taodong.net)
 
-## Hello!
-I’m an [HCI](https://www.interaction-design.org/literature/topics/human-computer-interaction) researcher, User Experience Lead, and public speaker at Google. I'm based in Mountain View, California. My current work is focused on improving the experience of UI programming, specifically with [Flutter](https://flutter.dev/), a new open-source UI toolkit. 
-Previously, I worked on Google's opensource operating system [Fuchsia](https://fuchsia.dev/), 
-[Material Design](https://material.io/), and special projects related to cross-device interactions. 
+## Hi there,
+I’m a Human-Computer Interaction researcher, User Experience Lead, and keynote speaker. My current focus is applying AI to the full lifecycle of software engineering. Previously, I founded and led the UX team for Google's programming frameworks and languages group, including beloved open-source projects such as [Flutter](https://flutter.dev/), Dart, and Go.
 
 I received my PhD from the [School of Information](http://www.si.umich.edu) at the University of Michigan in 2015. 
 For my [doctoral research](http://deepblue.lib.umich.edu/handle/2027.42/111448), I conducted ethnographic studies, designed and prototyped systems, and ran field trials of ubiquitous computing technologies. I was co-advised by [Prof. Mark Ackerman](https://www.si.umich.edu/people/mark-ackerman) and [Prof. Mark Newman](https://www.si.umich.edu/people/mark-newman).
