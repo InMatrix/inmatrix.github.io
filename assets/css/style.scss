@@ -34,12 +34,37 @@ img {
     z-index: 0;
 }
 
+@keyframes cinematic-pan {
+    0% {
+        transform: scale(1.05) translate(0, 0);
+        background-position: center;
+    }
+    25% {
+        transform: scale(1.1) translate(-1%, -1%);
+        background-position: 45% 45%;
+    }
+    50% {
+        transform: scale(1.15) translate(1%, 1%);
+        background-position: 55% 55%;
+    }
+    75% {
+        transform: scale(1.1) translate(1%, -1%);
+        background-position: 55% 45%;
+    }
+    100% {
+        transform: scale(1.05) translate(0, 0);
+        background-position: center;
+    }
+}
+
 #header_wrap {
-    background-image: url("../images/sven-pieren-D2n_n2qUoM0-unsplash.jpg");
+    background-image: url("https://cdn.pixabay.com/photo/2023/10/14/09/20/mountains-8314422_1280.png");
     background-size: cover;
     background-position: center;
     position: relative;
     overflow: hidden;
+    animation: cinematic-pan 30s ease-in-out infinite;
+    transform-origin: center;
 }
 
 #header_wrap header {
