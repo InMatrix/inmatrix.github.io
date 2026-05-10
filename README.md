@@ -1,4 +1,4 @@
-[Email](mailto:dongtao@acm.org) \| [Google Scholar](https://scholar.google.com/citations?user=HYU9v0QAAAAJ&hl=en) \| [LinkedIn](https://www.linkedin.com/in/dongtao) \| [Blog](https://taodong.medium.com/) \| [X](https://x.com/taodong) \| [AI Papers Reader](https://ai-papers-reader.taodong.net)
+[Email](mailto:dongtao@acm.org) \| [Google Scholar](https://scholar.google.com/citations?user=HYU9v0QAAAAJ&hl=en) \| [LinkedIn](https://www.linkedin.com/in/dongtao) \| [Substack](https://evaluatingevals.substack.com/) \| [Medium](https://taodong.medium.com/) \| [AI Papers Reader](https://ai-papers-reader.taodong.net)
 
 ## Hi there 👋
 I’m a Human-Computer Interaction researcher, User Experience Lead, and keynote speaker. My current focus is applying AI to the full lifecycle of software engineering. Previously, I founded and led the UX team for Google's programming frameworks and languages group, including beloved open-source projects such as [Flutter](https://flutter.dev/), [Dart](https://dart.dev/), and [Go](https://go.dev/).
