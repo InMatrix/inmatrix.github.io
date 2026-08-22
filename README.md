@@ -1,12 +1,22 @@
-[Email](mailto:dongtao@acm.org) \| [Google Scholar](https://scholar.google.com/citations?user=HYU9v0QAAAAJ&hl=en) \| [LinkedIn](https://www.linkedin.com/in/dongtao) \| [Blog](https://taodong.medium.com/) \| [X](https://x.com/taodong) \| [AI Papers Reader](https://ai-papers-reader.taodong.net)
+[Email](mailto:dongtao@acm.org) \| [Google Scholar](https://scholar.google.com/citations?user=HYU9v0QAAAAJ&hl=en) \| [LinkedIn](https://www.linkedin.com/in/dongtao) \| [Substack](https://evaluatingevals.substack.com/) \| [Medium](https://taodong.medium.com/) \| [AI Papers Reader](https://ai-papers-reader.taodong.net)
 
 ## Hi there 👋
-I’m a Human-Computer Interaction researcher, User Experience Lead, and keynote speaker. My current focus is applying AI to the full lifecycle of software engineering. Previously, I founded and led the UX team for Google's programming frameworks and languages group, including beloved open-source projects such as [Flutter](https://flutter.dev/), [Dart](https://dart.dev/), and [Go](https://go.dev/).
+I’m a Human-Centered AI Researcher. My current focus is applying AI to the full lifecycle of software engineering. Previously, I founded and led the UX team for Google's Programming Frameworks and Languages group, which maintains beloved open-source projects such as [Flutter](https://flutter.dev/), [Dart](https://dart.dev/), and [Go](https://go.dev/).
 
 I received my PhD from the [School of Information](http://www.si.umich.edu) at the University of Michigan in 2015. 
-For my [doctoral research](http://deepblue.lib.umich.edu/handle/2027.42/111448), I conducted ethnographic studies, designed and prototyped systems, and ran field trials of ubiquitous computing technologies. I was co-advised by [Prof. Mark Ackerman](https://www.si.umich.edu/people/mark-ackerman) and [Prof. Mark Newman](https://www.si.umich.edu/people/mark-newman).
+For my [doctoral research](http://deepblue.lib.umich.edu/handle/2027.42/111448), I conducted ethnographic studies, designed and prototyped interactive systems, and ran field trials of ubiquitous computing technologies. I was co-advised by [Prof. Mark Ackerman](https://www.si.umich.edu/people/mark-ackerman) and [Prof. Mark Newman](https://www.si.umich.edu/people/mark-newman).
 
 ## Select Projects
+
+### AI Agent Behavior in Software Engineering
+
+Coding agents are saturating benchmarks like SWE-bench, yet generating correct code isn't enough to make them effective team members. To understand what makes an AI agent a true collaborator, we synthesized 91 sets of developer-defined rules and interviewed 15 experienced enterprise developers.
+
+We introduce a taxonomy of desirable SWE agent behaviors across four dimensions—*Standards & Processes*, *Code Quality & Reliability*, *Problem Solving*, and *Human-Agent Collaboration*—to help practitioners evaluate and align agents for real-world software development. Learn more: [Paper (AIware ’26)](https://dl.acm.org/doi/abs/10.1145/3805760.3814913), [Poster (CHI EA '26)](https://dl.acm.org/doi/full/10.1145/3772363.3798733).
+
+<div class="videoWrapper">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/7rHmpQRLZW8?si=LoCoFA6UIXLkm9eK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
 
 ### API Usability
 
@@ -14,7 +24,7 @@ The usability of API can make or break a developer's productivity. At DevXcon 20
 [Slides](https://docs.google.com/presentation/d/1vkVGdmeQyp8uQkc35iwGGXV0nFCZqnVELSkFY4WdU7w/edit#slide=id.g3add037ebf_0_3), [Blog Post](https://medium.com/google-design/how-i-do-developer-ux-at-google-b21646c2c4df).
 
 <div class="videoWrapper">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/Zx732oQN_Rs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/Zx732oQN_Rs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 ### Presentation of Error Messages
@@ -23,7 +33,7 @@ Programmatic errors are often difficult to resolve due to poor usability of erro
 Applying theories of visual perception and techniques in visual design, we were able to substantially improve both error comprehension and resolution in an experiment. Learn more: [Paper (CHI ’19)](https://dl.acm.org/doi/10.1145/3290607.3312978?cid=99659035732), [Blog Post](https://medium.com/flutter/improving-flutters-error-messages-e098513cecf9).
 
 <div class="videoWrapper">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/whcdZf8VMdo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/whcdZf8VMdo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 ### Interactive Coding Tutorials
