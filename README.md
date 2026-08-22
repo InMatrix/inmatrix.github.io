@@ -3,8 +3,8 @@
 ## Hi there 👋
 I’m a Human-Centered AI Researcher. My current focus is applying AI to the full lifecycle of software engineering. Previously, I founded and led the UX team for Google's Programming Frameworks and Languages group, which maintains beloved open-source projects such as [Flutter](https://flutter.dev/), [Dart](https://dart.dev/), and [Go](https://go.dev/).
 
-I received my PhD from the [School of Information](http://www.si.umich.edu) at the University of Michigan in 2015. 
-For my [doctoral research](http://deepblue.lib.umich.edu/handle/2027.42/111448), I conducted ethnographic studies, designed and prototyped interactive systems, and ran field trials of ubiquitous computing technologies. I was co-advised by [Prof. Mark Ackerman](https://www.si.umich.edu/people/mark-ackerman) and [Prof. Mark Newman](https://www.si.umich.edu/people/mark-newman).
+I received my PhD from the [School of Information](https://www.si.umich.edu) at the University of Michigan in 2015. 
+For my [doctoral research](https://deepblue.lib.umich.edu/handle/2027.42/111448), I conducted ethnographic studies, designed and prototyped interactive systems, and ran field trials of ubiquitous computing technologies. I was co-advised by [Prof. Mark Ackerman](https://www.si.umich.edu/people/mark-ackerman) and [Prof. Mark Newman](https://www.si.umich.edu/people/mark-newman).
 
 ## Select Projects
 
@@ -58,13 +58,13 @@ Material Design is a Design System introduced by Google in 2014, but did it help
 
 ### Multi-device Experiences – A Design Ideation Toolkit
 
-How do devices take on different roles in ad-hoc multi-device configurations, and how do changes in the user's context influence device roles and privacy considerations? This kit helps designers incorporate these considerations into product design. Learn more: [Microsite](https://sites.google.com/view/mckit), [Paper @ DIS ’17](http://dl.acm.org/citation.cfm?doid=3064663.3064768).
+How do devices take on different roles in ad-hoc multi-device configurations, and how do changes in the user's context influence device roles and privacy considerations? This kit helps designers incorporate these considerations into product design. Learn more: [Microsite](https://sites.google.com/view/mckit), [Paper @ DIS ’17](https://doi.org/10.1145/3064663.3064768).
 
 ![McKit Figure](assets/images/McKit.png)
 
 ### Multi-device Experiences – Developer Challenges
 
-Why is building multi-device experiences so hard? Learn what I found from interviewing designers and developers. Learn more: [Paper @ DIS ’16](http://dx.doi.org/10.1145/2901790.2901851).
+Why is building multi-device experiences so hard? Learn what I found from interviewing designers and developers. Learn more: [Paper @ DIS ’16](https://doi.org/10.1145/2901790.2901851).
 
 <hr/>
 Projects below are from my pre-Google days.
@@ -77,7 +77,7 @@ Home Trivia is an experimental system which uses activity traces, games, and sen
     <iframe width="560" src="https://www.youtube.com/embed/TBDSEEFmEew" title="Home Trivia: Activity Traces in the Home" frameborder="0" allowfullscreen></iframe>
 </div>
 
-### House Memory: "If these walls could talk..." ###
+### House Memory: "If these walls could talk..."
 Through a field study and a design exercise, I explored the potential value of activity traces captured by sensors in domestic environments. Learn more: [Article @ ACM Interactions](https://drive.google.com/file/d/0B3ZUNRRaVZ8nQUpQemt0aU81ZHc/view), [Paper @ DIS ’14](https://drive.google.com/file/d/0B3ZUNRRaVZ8nSHFDR21IRDlMSUE/view) (Best Paper Nominee).
 
 ![House Memory Figure](assets/images/hm_figure.jpg)
@@ -90,10 +90,10 @@ Social Overlays is an experimental system to enable users to fix usability probl
     <iframe width="560" height="315" src="https://www.youtube.com/embed/PlysPcqyRt0" title="Social Overlays: Web Annotations and Modifications" frameborder="0" allowfullscreen></iframe>
 </div>
 
-### Learning Complex Software via Gaming ###
+### Learning Complex Software via Gaming
 Jigsaw is a discovery-based learning game for Photoshop based on the jigsaw puzzle metaphor. Learn more: [Paper @ CHI ’12](https://drive.google.com/file/d/0B3ZUNRRaVZ8ncEZkVFRvMUtvNUU/view).
 
-<!-- CHI2012 \[[ACM](http://dl.acm.org/citation.cfm?id=2208358) -->
+<!-- CHI2012 \[[ACM](https://dl.acm.org/citation.cfm?id=2208358) -->
 
 <div class="videoWrapper">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/OwEPxmm_BTY" title="Jigsaw: Learning Complex Software via Gaming" frameborder="0" allowfullscreen></iframe>
