@@ -82,6 +82,12 @@ img {
     z-index: 0;
 }
 
+@media (prefers-reduced-motion: reduce) {
+    #header_wrap::before {
+        animation: none;
+    }
+}
+
 #header_wrap header {
     position: relative;
     z-index: 1;

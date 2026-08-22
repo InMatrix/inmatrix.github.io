@@ -15,7 +15,7 @@ Coding agents are saturating benchmarks like SWE-bench, yet generating correct c
 We introduce a taxonomy of desirable SWE agent behaviors across four dimensions—*Standards & Processes*, *Code Quality & Reliability*, *Problem Solving*, and *Human-Agent Collaboration*—to help practitioners evaluate and align agents for real-world software development. Learn more: [Paper (AIware ’26)](https://dl.acm.org/doi/abs/10.1145/3805760.3814913), [Poster (CHI EA '26)](https://dl.acm.org/doi/full/10.1145/3772363.3798733).
 
 <div class="videoWrapper">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/7rHmpQRLZW8?si=LoCoFA6UIXLkm9eK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/7rHmpQRLZW8?si=LoCoFA6UIXLkm9eK" title="AI Agent Behavior in Software Engineering video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 ### API Usability
@@ -24,7 +24,7 @@ The usability of API can make or break a developer's productivity. At DevXcon 20
 [Slides](https://docs.google.com/presentation/d/1vkVGdmeQyp8uQkc35iwGGXV0nFCZqnVELSkFY4WdU7w/edit#slide=id.g3add037ebf_0_3), [Blog Post](https://medium.com/google-design/how-i-do-developer-ux-at-google-b21646c2c4df).
 
 <div class="videoWrapper">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/Zx732oQN_Rs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/Zx732oQN_Rs" title="How to Apply UX Principles and Methods to API Usability" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 ### Presentation of Error Messages
@@ -33,7 +33,7 @@ Programmatic errors are often difficult to resolve due to poor usability of erro
 Applying theories of visual perception and techniques in visual design, we were able to substantially improve both error comprehension and resolution in an experiment. Learn more: [Paper (CHI ’19)](https://dl.acm.org/doi/10.1145/3290607.3312978?cid=99659035732), [Blog Post](https://medium.com/flutter/improving-flutters-error-messages-e098513cecf9).
 
 <div class="videoWrapper">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/whcdZf8VMdo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/whcdZf8VMdo" title="Improving Flutter's Error Messages" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 ### Interactive Coding Tutorials
@@ -48,7 +48,7 @@ What's unique about this medium, compared with pre-recorded videos?
 Read our paper to find out. Learn more: [Paper @ CSCW ’20](https://drive.google.com/file/d/13ybnyXf41FcKr9uvJD0W74euG5sriNR0/view?usp=sharing).
 
 <div class="videoWrapper">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/GOumcQgdnXQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/GOumcQgdnXQ" title="Programming Education via Live Streaming" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 ### Evaluating a Design System at Scale
@@ -74,7 +74,7 @@ Projects below are from my pre-Google days.
 Home Trivia is an experimental system which uses activity traces, games, and sensors to help families better understand how they spend time at home. Learn more: [Paper @ UbiComp ’15](https://drive.google.com/file/d/0B3ZUNRRaVZ8na3lUM3RwSmx5VFE/view?usp=sharing).
 
 <div class="videoWrapper">
-    <iframe width="560" src="https://www.youtube.com/embed/TBDSEEFmEew" frameborder="0" allowfullscreen></iframe>
+    <iframe width="560" src="https://www.youtube.com/embed/TBDSEEFmEew" title="Home Trivia: Activity Traces in the Home" frameborder="0" allowfullscreen></iframe>
 </div>
 
 ### House Memory: "If these walls could talk..." ###
@@ -87,7 +87,7 @@ Through a field study and a design exercise, I explored the potential value of a
 Social Overlays is an experimental system to enable users to fix usability problems on live websites and share their modifications with other site visitors. Learn more: [Paper @ Interact ’13](https://doi.org/10.1007/978-3-642-40498-6_21).
 
 <div class="videoWrapper">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/PlysPcqyRt0" frameborder="0" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/PlysPcqyRt0" title="Social Overlays: Web Annotations and Modifications" frameborder="0" allowfullscreen></iframe>
 </div>
 
 ### Learning Complex Software via Gaming ###
@@ -96,7 +96,7 @@ Jigsaw is a discovery-based learning game for Photoshop based on the jigsaw puzz
 <!-- CHI2012 \[[ACM](http://dl.acm.org/citation.cfm?id=2208358) -->
 
 <div class="videoWrapper">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/OwEPxmm_BTY" frameborder="0" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/OwEPxmm_BTY" title="Jigsaw: Learning Complex Software via Gaming" frameborder="0" allowfullscreen></iframe>
 </div>
 
 If you don't have access to the ACM Digital Library, you can download the preprint versions of my papers on [Google Drive](https://drive.google.com/folderview?id=0B3ZUNRRaVZ8nfkVHdzdOM3ZKQmZHMGl1SWowQU9GQnVWakM5YTQ2UGZJcnQ3d3ZQcjFOZ1U&usp=sharing).
