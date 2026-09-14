@@ -1,0 +1,25 @@
+---
+layout: default
+---
+
+<article class="post">
+  <div class="post-back-link" style="margin-bottom: 1.75rem;">
+    <a href="{{ '/' | relative_url }}">← Back to Home</a>
+  </div>
+
+  <header class="post-header" style="margin-bottom: 2rem;">
+    <h1 class="post-title" style="margin-bottom: 0.5rem; border-bottom: none;">{{ page.title }}</h1>
+    <div class="post-meta" style="color: #6a737d; font-size: 0.95rem;">
+      <time datetime="{{ page.date | date_to_xmlschema }}">Published on {{ page.date | date: "%B %-d, %Y" }}</time>
+    </div>
+  </header>
+
+  <div class="post-content">
+    {{ content }}
+  </div>
+
+  <hr style="margin: 3rem 0 1.5rem 0;" />
+  <div class="post-footer-nav" style="margin-bottom: 2rem;">
+    <a href="{{ '/' | relative_url }}">← Back to Home</a>
+  </div>
+</article>
