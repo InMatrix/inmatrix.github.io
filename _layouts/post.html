@@ -18,7 +18,18 @@ layout: default
     {{ content }}
   </div>
 
-  <hr style="margin: 3rem 0 1.5rem 0;" />
+  {% if page.license == "CC BY 4.0" or page.license == "CC-BY-4.0" %}
+  <div class="post-license" style="margin-top: 2.5rem; font-size: 0.85rem; color: #888; display: flex; flex-wrap: wrap; align-items: center; gap: 12px;">
+    <a rel="license" href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noopener" style="flex-shrink: 0;">
+      <img alt="Creative Commons License" style="display: block; border-radius: 2px; margin: 0;" src="{{ '/assets/images/cc-by.png' | relative_url }}" />
+    </a>
+    <span>
+      Except where otherwise noted, the text and original diagrams in this article are licensed under a <a rel="license" href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noopener">Creative Commons Attribution 4.0 International License</a>.
+    </span>
+  </div>
+  {% endif %}
+
+  <hr style="margin: 2rem 0 1.5rem 0;" />
   <div class="post-footer-nav" style="margin-bottom: 2rem;">
     <a href="{{ '/' | relative_url }}">← Back to Home</a>
   </div>

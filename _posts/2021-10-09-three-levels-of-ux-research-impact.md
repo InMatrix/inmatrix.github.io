@@ -5,6 +5,7 @@ date: 2021-10-09
 permalink: /three-levels-of-ux-research-impact/
 canonical_url: https://uxdesign.cc/three-levels-of-ux-research-impact-174768b7f4ef
 description: "Evaluating the impact of UX research is hard. Here is a framework that can help."
+license: "CC BY 4.0"
 ---
 
 #### Evaluating the impact of UX research is hard. Here is a framework that can help.
